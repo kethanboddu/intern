@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+a_tb is 0,b_tb is 0,cin_tb is 0,sum_tb is 0,carry_tb is 0
+a_tb is 0,b_tb is 0,cin_tb is 1,sum_tb is 1,carry_tb is 0
+a_tb is 0,b_tb is 1,cin_tb is 0,sum_tb is 1,carry_tb is 0
+a_tb is 0,b_tb is 1,cin_tb is 1,sum_tb is 0,carry_tb is 1
+a_tb is 1,b_tb is 0,cin_tb is 0,sum_tb is 1,carry_tb is 0
+a_tb is 1,b_tb is 0,cin_tb is 1,sum_tb is 0,carry_tb is 1
+a_tb is 1,b_tb is 1,cin_tb is 0,sum_tb is 0,carry_tb is 1
+a_tb is 1,b_tb is 1,cin_tb is 1,sum_tb is 1,carry_tb is 1
+$finish called at time : 88 ns : File "D:/intern/full_adder/full_adder.srcs/sim_1/new/fa_tb.v" Line 76

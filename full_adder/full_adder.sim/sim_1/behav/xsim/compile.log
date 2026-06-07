@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/intern/full_adder/full_adder.srcs/sources_1/new/fa_df.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fa_df
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/intern/full_adder/full_adder.srcs/sim_1/new/fa_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fa_tb

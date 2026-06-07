@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+a_tb is 0,b_tb is 0,sum_tb is 0,carry_tb is 0
+a_tb is 0,b_tb is 1,sum_tb is 1,carry_tb is 0
+a_tb is 1,b_tb is 0,sum_tb is 1,carry_tb is 0
+a_tb is 1,b_tb is 1,sum_tb is 0,carry_tb is 1
+$finish called at time : 44 ns : File "D:/intern/half_adder/half_adder.srcs/sim_1/new/ha_tb.v" Line 49
