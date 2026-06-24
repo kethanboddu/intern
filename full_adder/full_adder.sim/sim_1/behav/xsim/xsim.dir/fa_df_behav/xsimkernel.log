@@ -1,7 +1,0 @@
-Running: xsim.dir/fa_df_behav/xsimk.exe -simmode gui -wdb fa_df_behav.wdb -simrunnum 0 -socket 52623
-Design successfully loaded
-Design Loading Memory Usage: 10604 KB (Peak: 10604 KB)
-Design Loading CPU Usage: 93 ms
-Simulation completed
-Simulation Memory Usage: 11124 KB (Peak: 11124 KB)
-Simulation CPU Usage: 140 ms
