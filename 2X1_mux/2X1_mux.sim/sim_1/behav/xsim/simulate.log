@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+i0_tb is 0,i1_tb is 0,sel_tb is 0,y_tb is 0
+i0_tb is 0,i1_tb is 0,sel_tb is 1,y_tb is 0
+i0_tb is 0,i1_tb is 1,sel_tb is 0,y_tb is 0
+i0_tb is 0,i1_tb is 1,sel_tb is 1,y_tb is 1
+i0_tb is 1,i1_tb is 0,sel_tb is 0,y_tb is 1
+i0_tb is 1,i1_tb is 0,sel_tb is 1,y_tb is 0
+i0_tb is 1,i1_tb is 1,sel_tb is 0,y_tb is 1
+i0_tb is 1,i1_tb is 1,sel_tb is 1,y_tb is 1
