@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+a_tb is 0,b_tb is 0,diff_tb is 0,borrow_tb is 0
+a_tb is 0,b_tb is 1,diff_tb is 1,borrow_tb is 1
+a_tb is 1,b_tb is 0,diff_tb is 1,borrow_tb is 0
+a_tb is 1,b_tb is 1,diff_tb is 0,borrow_tb is 0
+$finish called at time : 44 ns : File "D:/intern/half_subtractor/half_subtractor.srcs/sim_1/new/hs_tb.v" Line 48

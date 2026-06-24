@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+a is 0,b is 0,bin is 0,diff is 0,bout is 0
+a is 0,b is 0,bin is 1,diff is 1,bout is 1
+a is 0,b is 1,bin is 0,diff is 1,bout is 1
+a is 0,b is 1,bin is 1,diff is 0,bout is 1
+$finish called at time : 80 ns : File "D:/intern/full_subtractor/full_subtractor.srcs/sim_1/new/fs_tb.v" Line 53

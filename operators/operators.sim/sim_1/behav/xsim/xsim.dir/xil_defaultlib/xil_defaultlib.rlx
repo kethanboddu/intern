@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/intern/operators/operators.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/intern/operators/operators.srcs/sources_1/new/bitwise_XNOR.v,1778923244,verilog,,,,bitwise_XNOR,,,,,,,,
+D:/intern/operators/operators.srcs/sources_1/new/bitwise_and.v,1778899668,verilog,,,,bitwise_and,,,,,,,,
+D:/intern/operators/operators.srcs/sources_1/new/concat_op.v,1778925891,verilog,,,,concat_op,,,,,,,,
+D:/intern/operators/operators.srcs/sources_1/new/logical_and.v,1778898846,verilog,,,,logical_and,,,,,,,,
+D:/intern/operators/operators.srcs/sources_1/new/logical_or.v,1778899309,verilog,,,,logical_or,,,,,,,,
+D:/intern/operators/operators.srcs/sources_1/new/reduction_op.v,1778923640,verilog,,,,reduction_op,,,,,,,,
